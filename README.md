@@ -4,7 +4,7 @@ In the project directory, you should run:
 
 ### `npm i`
 
-This will download the node modules needed to run the app.
+Downloads the node modules needed to run the app.
 
 ## Important Libraries
 
