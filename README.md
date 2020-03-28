@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## User Comment Cards
+
+In the project directory, you should run:
+
+### `npm i`
+
+This will download the node modules needed to run the app.
+
+## Important Libraries
+
+The project uses the Faker library to generate fake data for the user profile information.
+http://faker.hook.io
 
 ## Available Scripts
 
