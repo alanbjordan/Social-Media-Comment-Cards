@@ -8,7 +8,7 @@ Downloads the node modules needed to run the app.
 
 ## Important Libraries
 
-The project uses the Faker library to generate fake data for the user profile information.
+Project uses the Faker library to generate fake data for the user profile information.
 http://faker.hook.io
 
 ## Available Scripts
