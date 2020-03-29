@@ -35,7 +35,7 @@ const App = () => {
                 />   
                 <div>
                     <h2>Notice</h2> 
-                    Users wants to post the comment                  
+                    This users wants to post the comment                  
                 </div>                
             </ApprovalCard>
             <ApprovalCard>
