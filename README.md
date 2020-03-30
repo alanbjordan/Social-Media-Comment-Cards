@@ -11,6 +11,11 @@ Downloads the node modules needed to run the app.
 Project uses the Faker library to generate fake data for user profile information.
 http://faker.hook.io
 
+## Final Image Render
+
+
+![Image Description](https://github.com/alanbjordan/User-Profile-Social-Media-Cards/blob/master/UserCard.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
