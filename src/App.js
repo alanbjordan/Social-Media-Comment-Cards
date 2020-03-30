@@ -3,11 +3,11 @@ import CommentDetail from './components/CommentDetail';
 import ApprovalCard from './components/ApprovalCard';
 import ImagePost from './components/ImagePost2';
 import faker from 'faker';
-console.log(faker.name.firstName());
+import './App.css';
 const App = () => {
     return (
         
-        <div className="ui container comments">
+        <div id="mainDiv" className="ui container comments">
             <ApprovalCard >    
                 <CommentDetail 
                     author = {faker.name.firstName()} 
