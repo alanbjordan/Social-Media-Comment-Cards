@@ -3,7 +3,7 @@ import React from 'react';
 const ApprovalCard = (props) => {
 
     return (
-        <div className="ui cards">
+        <div id="cardComp" className="ui cards">
             <div className="card">
                 <div className="content">
                     {props.children}
