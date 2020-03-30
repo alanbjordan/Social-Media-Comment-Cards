@@ -1,0 +1,8 @@
+#mainDiv {
+    display: flex;
+}
+
+#cardComp {
+    display: inline-block;
+    margin: 10px;
+}
